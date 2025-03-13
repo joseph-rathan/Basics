@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pandas
+scikit-learn
+seaborn
+kagglehub
+tensor-sensor
+torch
+torchvision
